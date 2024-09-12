@@ -1,0 +1,13 @@
+Branch Location: Ang Mo Kio
+January,100,200,150,300,160
+February,250,175,200,200
+March,300,150,200
+April,200,300,250
+May,160,190,250
+June,300,325,350,295
+July,100,150,185,200,160
+August,250,175,200,200
+September,300,150,200
+October,200,300,250
+November,160,190,250
+December,300,325,350,295
